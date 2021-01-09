@@ -1,7 +1,5 @@
 # javascript-index
 
-https://myunitbook.github.io/javascript-index/
-
 JavaScript index for start web development.  
 
 > introduction javascript.
