@@ -2,10 +2,18 @@
 
 https://myunitbook.github.io/javascript-index/
 
-JavaScript index for start web development  
+JavaScript index for start web development.  
 
-> introduction javascript
+> introduction javascript.
 
->jacascript structure
+>javascript structure.
 
->javascript syntax 
+>javascript syntax. 
+
+>javascript Hello-message. 
+
+>javascript variable.
+
+>javascript control statement. 
+
+>javascript loops.
