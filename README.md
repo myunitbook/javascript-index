@@ -1,6 +1,4 @@
-# javascript-index
-
-JavaScript index for start web development.  
+# JavaScript index for start web development.  
 
 > introduction javascript.
 
